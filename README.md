@@ -1,4 +1,72 @@
 # Not-ONLY-The-price-of-Books
+<table>
+<thead>
+  <tr>
+      <th><a href='#Table-of-Contents'>Table of Contents</a></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+      <td><a href='#An-Overview'>An Overview</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href='#Dependencies'>Dependencies</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(A)-Install-Dependencies'>(A) Install Dependencies</a></td>
+  </tr>
+      <tr>
+    <td></td>
+          <td><a href='#(B)-Importing-Libraries'>(B) Importing Libraries</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(C)-Hardware-Dependencies'>(C) Hardware Dependencies</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(D)-Data-Dependences'>(D) Data Dependences</a></td>
+  </tr>
+  <tr>
+      <td><a href='#Workflow-pipeline'>Workflow pipeline</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(A)-Data-Ingestion'>(A) Data Ingestion</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(B)-Data-Exploration'>(B) Data Exploration</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(C)-Data-Analysis'>(C) Data Analysis</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(D)-Data-Preparation'>(D) Data Preparation</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(E)-Train-Model-&-Validate-Model'>(E) Train Model & Validate Model</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(F)-Evaluate-Model'>(F) Evaluate Model</a></td>
+  </tr>
+  <tr>
+    <td></td>
+      <td><a href='#(G)-Serving-Model'>(G) Serving Model</a></td>
+  </tr>
+</tbody>
+</table>
+
+
 <p style='font-size: 18px;font-weight:bold'>Transform</p>
 
 
